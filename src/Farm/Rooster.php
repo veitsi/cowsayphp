@@ -11,7 +11,7 @@ class Rooster extends AbstractAnimal
     protected $character = <<<DOC
 
       {{bubble}}
-          	\
+            \
        _     \   ;-.-._
     .-" "-.   \   \.  _{
    /       \   \  /   o )_
